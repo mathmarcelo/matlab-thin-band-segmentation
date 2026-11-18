@@ -44,4 +44,4 @@ This educational example uses one synthetic image and one fixed noise realizatio
 
 ## Contribution
 
-The initial script was prepared with AI assistance. I ran the experiments in MATLAB Online, changed the smoothing-window size, and compared the numerical and visual results.
+I ran the experiments in MATLAB Online, changed the smoothing-window size, and compared the numerical and visual results.
